@@ -9,9 +9,9 @@ This project provides a simplified approach to predicting flight delays using IB
 ## Table of Contents
 
 * [FLIGHT_DELEY_PREDICTION](#problem-statement)
-* [Dataset](#dataset)
+* [DELAY.CSV](#dataset)
 * [Data Preparation in SPSS Modeler](#data-preparation-in-spss-modeler)
-* [Basic Feature Selection](#basic-feature-selection)
+* [USED models](#basic-feature-selection)
 * [Building a Simple Predictive Model in SPSS Modeler](#building-a-simple-predictive-model-in-spss-modeler)
 * [Evaluating the Model](#evaluating-the-model)
 * [Preliminary Insights](#preliminary-insights)
